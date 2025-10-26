@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|f:\\wada_isdb\\finalproject\\alve\\api\\api\\api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|solutionrelative:api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|f:\\wada_isdb\\finalproject\\alve\\api\\api\\api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|solutionrelative:api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|f:\\wada_isdb\\finalproject\\alve\\api\\api\\api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|solutionrelative:api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|f:\\wada_isdb\\finalproject\\alve\\api\\api\\api\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|solutionrelative:api\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|f:\\wada_isdb\\finalproject\\alve\\api\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|f:\\wada_isdb\\finalproject\\alve\\api\\api\\api\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|solutionrelative:api\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|f:\\wada_isdb\\finalproject\\alve\\api\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDEA8FA-496E-44EE-9677-458CDE6F367A}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\JwtService.cs",
+              "RelativeDocumentMoniker": "Api\\JwtService.cs",
+              "ToolTip": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\JwtService.cs",
+              "RelativeToolTip": "Api\\JwtService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:06:17.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\EmailService.cs",
+              "RelativeDocumentMoniker": "Api\\EmailService.cs",
+              "ToolTip": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\EmailService.cs",
+              "RelativeToolTip": "Api\\EmailService.cs",
+              "ViewState": "AgIAABQAAAAAMzMzMzMLwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T03:34:58.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\LibraryController.cs",
+              "ToolTip": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Api\\Controllers\\LibraryController.cs",
+              "ViewState": "AgIAAC8AAAAANDMzMzMhwEgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:14:08.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Context.cs",
+              "RelativeDocumentMoniker": "Api\\Context.cs",
+              "ToolTip": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Context.cs",
+              "RelativeToolTip": "Api\\Context.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:17:01.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Api\\Entities\\User.cs",
+              "ToolTip": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Entities\\User.cs",
+              "RelativeToolTip": "Api\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:16:48.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T03:16:43.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "F:\\Wada_IsDB\\FinalProject\\alve\\Api\\Api\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T03:13:45.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
