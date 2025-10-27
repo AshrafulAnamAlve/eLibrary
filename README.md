@@ -64,7 +64,7 @@ coming soon
 |------|--------|
 | View Books | ![User View Book](image/viewbook.PNG) |
 | My Orders | ![User My Order](image/myOrder.PNG) |
-| Profile | ![Profile](image/profile.PNG) |
+| Profile | ![Profile](image/profle.PNG) |
 
 ### 👨‍💼 Admin Interface
 | View | Image |
