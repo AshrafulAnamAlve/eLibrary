@@ -48,7 +48,7 @@ Fine and blocking mechanisms are automated:
 | **Database** | Microsoft SQL Server |
 | **Authentication** | JWT (JSON Web Token) |
 | **IDE** | Visual Studio & VS Code |
-| **Language** | C#, TypeScript, HTML, CSS |
+| **Language** | C#, HTML + Angular syntax + Angular Material components, CSS |
 
 ---
 
