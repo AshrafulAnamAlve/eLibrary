@@ -176,5 +176,12 @@ export class Api {
     })
   }
 
+  unblock(userId: number){
+    return this.http.get(this.baseUrl+"Unblock",{
+      params: new HttpParams().append("userId",userId),
+      responseType: "text",
+    })
+  }
+
 }
 

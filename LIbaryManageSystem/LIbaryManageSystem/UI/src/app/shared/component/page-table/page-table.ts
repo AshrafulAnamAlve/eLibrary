@@ -20,9 +20,16 @@ export class PageTable {
   @Output()
   approve = new EventEmitter<User>()
 
+    @Output()
+  unblock = new EventEmitter<User>()
+
   constructor(private apiSerive: Api){}
 
   getFineToPay(order:Order){
     return this.apiSerive.getFine(order);
+  }
+
+  getAccountStatus(input:AccountStatus){
+    return AccountStatus[input];
   }
 }

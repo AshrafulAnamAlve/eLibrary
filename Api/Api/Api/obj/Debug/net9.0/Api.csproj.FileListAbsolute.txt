@@ -839,3 +839,4 @@ F:\Wada_IsDB\FinalProject\alve\Api\Api\Api\obj\Debug\net9.0\refint\Api.dll
 F:\Wada_IsDB\FinalProject\alve\Api\Api\Api\obj\Debug\net9.0\Api.pdb
 F:\Wada_IsDB\FinalProject\alve\Api\Api\Api\obj\Debug\net9.0\Api.genruntimeconfig.cache
 F:\Wada_IsDB\FinalProject\alve\Api\Api\Api\obj\Debug\net9.0\ref\Api.dll
+F:\Wada_IsDB\FinalProject\alve\Api\Api\Api\obj\Debug\net9.0\Api.sourcelink.json

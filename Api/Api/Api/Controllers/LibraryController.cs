@@ -273,7 +273,7 @@ namespace Api.Controllers
                     <body>
                         <h2>Hi, {x.User?.FirstName} {x.User?.LastName}</h2>
                         <h4>Yesterday was your last day to return Book: "{x.Book?.Title}".</h4>
-                        <h4>From today, every day a fine of 50Rs will be added for this book.</h4>
+                        <h4>From today, every day a fine of 50tk will be added for this book.</h4>
                         <h4>Please return it as soon as possible.</h4>
                         <h4>If your fine exceeds 500tk, your account will be blocked.</h4>
                         <h4>Thanks</h4>
@@ -291,7 +291,7 @@ namespace Api.Controllers
                 <html>
                     <body>
                         <h2>Hi, {x.User?.FirstName} {x.User?.LastName}</h2>
-                        <h4>You have {x.FinePaid}Rs fine on Book: "{x.Book?.Title}"</h4>
+                        <h4>You have {x.FinePaid}tk fine on Book: "{x.Book?.Title}"</h4>
                         <h4>Pleae pay it as soon as possible.</h4>
                         <h4>Thanks</h4>
                     </body>
@@ -308,7 +308,7 @@ namespace Api.Controllers
                 <html>
                     <body>
                         <h2>Hi, {x.User?.FirstName} {x.User?.LastName}</h2>
-                        <h4>You have {x.FinePaid}Rs fine on Book: "{x.Book?.Title}"</h4>
+                        <h4>You have {x.FinePaid}tk fine on Book: "{x.Book?.Title}"</h4>
                         <h4>Your account is BLOCKED.</h4>
                         <h4>Pleae pay it as soon as possible to UNBLOCK your account.</h4>
                         <h4>Thanks</h4>
@@ -346,6 +346,20 @@ namespace Api.Controllers
             {
                 return Ok("not blocked");
             }
+        }
+
+        [Authorize]
+        [HttpGet("Unblock")]
+        public ActionResult Unblock(int userId)
+        {
+            var user = Context.Users.Find(userId);
+            if(user is not null)
+            {
+                user.AccountStatus = AccountStatus.ACTIVE;
+                Context.SaveChanges();
+                return Ok("unblocked");
+            }
+            return Ok("not unblocked");
         }
     }
 }

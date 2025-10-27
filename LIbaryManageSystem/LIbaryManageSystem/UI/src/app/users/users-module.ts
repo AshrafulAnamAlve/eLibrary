@@ -5,6 +5,7 @@ import { share } from 'rxjs';
 import { SharedModule } from '../shared/shared-module';
 import { Profile } from './profile/profile';
 import { AllOrders } from './all-orders/all-orders';
+import { ViewUsers } from './view-users/view-users';
 
 
 
@@ -12,7 +13,8 @@ import { AllOrders } from './all-orders/all-orders';
   declarations: [
     UserOrders,
     Profile,
-    AllOrders
+    AllOrders,
+    ViewUsers
   ],
   imports: [
     SharedModule

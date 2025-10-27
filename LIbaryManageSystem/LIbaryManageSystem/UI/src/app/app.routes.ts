@@ -9,6 +9,7 @@ import { Maintenance } from './books/maintenance/maintenance';
 import { ReturnBook } from './books/return-book/return-book';
 import { ApprovalRequests } from './users/approval-requests/approval-requests';
 import { AllOrders } from './users/all-orders/all-orders';
+import { ViewUsers } from './users/view-users/view-users';
 
 export const routes: Routes = [
   { path: 'login', component: LoginComponent },
@@ -19,6 +20,7 @@ export const routes: Routes = [
   { path: 'return-book', component: ReturnBook },
   {path: 'approval-requests', component:ApprovalRequests},
   {path: 'all-orders', component:AllOrders},
+  {path:"view-users", component:ViewUsers},
   {path: 'profile', component:Profile},
   { path: '**', component: PageNotFound },
 ];
