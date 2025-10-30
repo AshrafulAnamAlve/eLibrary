@@ -35,7 +35,7 @@ Fine and blocking mechanisms are automated:
 - Block or unblock users.
 - View and manage all orders.
 - Manage book returns (calculate and mark fines as paid).
-- Send emails to users directly through the system.
+- Send emails to users directly through the system (SMTP Server).
 - Maintain full library operations through the dashboard.
 
 ---
