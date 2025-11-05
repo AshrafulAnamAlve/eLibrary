@@ -53,7 +53,7 @@ Fine and blocking mechanisms are automated:
 ---
 
 ## 🗂️ Database Name
-coming soon
+Restore in SSMS
 
 ---
 
